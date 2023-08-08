@@ -8,5 +8,7 @@ TikTok users have the ability to submit reports that identify videos and comment
 
 ## Project Overview
 Notebooks: Jupyter notebooks containing the code for data preprocessing, hypothesis testing, EDA, and visualization.
+
 Data: Sample TikTok dataset used for the analysis.
+
 Results: Visualizations, charts, and summaries of findings.
